@@ -1,2 +1,5 @@
 name: A workflow for my Hello World file
 on: push
+jobs:
+  my_first_job:
+    name: My first job
